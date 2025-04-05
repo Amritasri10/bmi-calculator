@@ -43,9 +43,9 @@ A simple and responsive Body Mass Index (BMI) Calculator built using **HTML**, *
 
 bmi-calculator/ 
 |
-├── index.html # Main HTML file 
-├── README.md # Project documentation 
-└── screenshot.png # Screenshot image 
+├── index.html
+├── README.md 
+└── screenshot.png
 
 ---
 
@@ -77,5 +77,5 @@ This project is open-source and free to use for learning and personal projects.
 ## 🙌 Author
 
 **Amrita Srivastava**  
-Connect with me on [LinkedIn]([https://www.linkedin.com/in/amrita-srivastava10/]) | [GitHub](https://github.com/Amritasri10)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/amrita-srivastava10/) | [GitHub](https://github.com/Amritasri10)
 
