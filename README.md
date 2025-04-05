@@ -5,7 +5,8 @@ A simple and responsive Body Mass Index (BMI) Calculator built using **HTML**, *
 ## 🖥️ Live Demo
 
 <!-- Optionally add a GitHub Pages or Netlify link here -->
-[Live Demo](#)
+[Live Demo](https://bmi-calculator-project-name.netlify.app
+)
 
 ---
 
