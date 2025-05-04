@@ -5,7 +5,7 @@ A simple and responsive Body Mass Index (BMI) Calculator built using **HTML**, *
 ## 🖥️ Live Demo
 
 <!-- Optionally add a GitHub Pages or Netlify link here -->
-[Live Demo](https://bmi-calculator-project-amrita.netlify.app
+[https://bmi-calculator-project-amrita.netlify.app](https://bmi-calculator-project-amrita.netlify.app
 )
 
 ---
@@ -37,16 +37,6 @@ A simple and responsive Body Mass Index (BMI) Calculator built using **HTML**, *
 - **HTML5** – Structure of the page
 - **Tailwind CSS** – Styling and layout
 - **JavaScript** – Logic for BMI calculation and DOM manipulation
-
----
-
-## 📂 File Structure
-
-bmi-calculator/ 
-|
-├── index.html
-├── README.md 
-└── screenshot.png
 
 ---
 
